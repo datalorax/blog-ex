@@ -2,6 +2,8 @@
 title: "My first distill post"
 description: |
   A short description of the post.
+categories:
+  - diamonds
 author:
   - name: Daniel Anderson
     url: https://www.datalorax.com
@@ -22,7 +24,7 @@ Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 
 
-```{r message = FALSE, warning = FALSE}
+```{r message = FALSE, warning = FALSE, layout = "l-screen"}
 library(tidyverse)
 theme_set(theme_minimal(15))
 

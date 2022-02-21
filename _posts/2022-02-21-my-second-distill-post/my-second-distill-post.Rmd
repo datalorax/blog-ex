@@ -2,6 +2,8 @@
 title: "My second distill post"
 description: |
   A short description of the post.
+categories:
+  - diamonds
 author:
   - name: Daniel Anderson
     url: https://www.datalorax.com
