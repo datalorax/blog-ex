@@ -16,7 +16,7 @@
     "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n\n\n\n",
     "preview": "posts/2022-02-20-my-first-distill-post/my-first-distill-post_files/figure-html5/unnamed-chunk-1-1.png",
     "last_modified": "2022-02-21T15:21:17-08:00",
-    "input_file": "my-first-distill-post.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/2022-02-21-my-second-distill-post/",
