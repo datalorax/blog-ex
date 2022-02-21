@@ -1,0 +1,53 @@
+[
+  {
+    "path": "posts/2022-02-20-my-first-distill-post/",
+    "title": "My first distill post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Daniel Anderson",
+        "url": "https://www.datalorax.com"
+      }
+    ],
+    "date": "2022-02-21",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n\n\n\n",
+    "preview": "posts/2022-02-20-my-first-distill-post/my-first-distill-post_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-02-21T15:01:48-08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-02-21-my-second-distill-post/",
+    "title": "My second distill post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Daniel Anderson",
+        "url": "https://www.datalorax.com"
+      }
+    ],
+    "date": "2022-02-21",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n\n\n\n",
+    "preview": "posts/2022-02-21-my-second-distill-post/my-second-distill-post_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-02-21T15:03:53-08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to EDLD 652",
+    "description": "Welcome to our new blog, EDLD 652. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Daniel Anderson",
+        "url": "https://www.datalorax.com"
+      }
+    ],
+    "date": "2022-02-21",
+    "categories": [],
+    "contents": "\nWelcome to my blog! Thank you so much for stopping by!\nHere’s a plot.\n\n\n\n\n\n\n",
+    "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-02-21T14:59:21-08:00",
+    "input_file": {}
+  }
+]
